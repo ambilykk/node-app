@@ -1,0 +1,19 @@
+{
+  "name": "dash-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js --port 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambilykk/node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ambilykk/node-app/issues"
+  },
+  "homepage": "https://github.com/ambilykk/node-app#readme"
+}
